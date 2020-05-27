@@ -5,7 +5,7 @@ sync or share
 
 * Replica 備份 M/S
 
-    Sync
+    Sync 同步複製。
 
     share nothing.
 
