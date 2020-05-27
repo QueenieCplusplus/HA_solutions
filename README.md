@@ -18,6 +18,8 @@ sync or share
     需要 SAN, storage area network 共享記憶體。
     
     情境：證帣產業使用此機制，為保障資料鎖住後無法成功交易，但是因涉及共享資源，所以有競奪鎖影響 I/O 的緣故，影響使用者感受。
+    
+    劣處：網路工作會大量增加！
 
 * Cluster Node 叢集
 
