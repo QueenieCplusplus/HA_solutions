@@ -5,21 +5,21 @@ sync or share
 
 * Replica 備份 M/S
 
-Sync
+    Sync
 
-share nothing.
+    share nothing.
 
 * Split Brain 腦裂(failover 容錯)
 
-Share memory. 共享數據。
+    Share memory. 共享數據。
 
-use heart beat
+    use heart beat
 
-需要 SAN, storage area network 共享記憶體。
+    需要 SAN, storage area network 共享記憶體。
 
 * Cluster Node 叢集
 
-Sync & Replica & Share Nothig, 同步複製但不共享。
+    Sync & Replica & Share Nothig, 同步複製但不共享。
 
 
 
