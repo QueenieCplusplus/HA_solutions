@@ -11,7 +11,7 @@ share nothing.
 
 * Split Brain 腦裂(failover 容錯)
 
-Share 
+Share memory. 共享數據。
 
 use heart beat
 
