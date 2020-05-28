@@ -31,6 +31,10 @@ sync or share
 
 * Cluster Node 叢集
 
+    method:
+   
+    https://youyouyou.pixnet.net/blog/post/119326123-mysql-cluster-%E5%AF%A6%E5%81%9A
+
     Sync & Replica & Share Nothig, 同步複製但不共享。
     
    
