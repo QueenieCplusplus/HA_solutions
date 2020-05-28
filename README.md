@@ -8,10 +8,11 @@ sync or share
     method:
     
     http://mylinuxcloudnotes.blogspot.com/2015/08/centos7-mysql-replication.html
+    
+     * API -> Master 可以 Select, Insert, Update, Delete
+     * Front end -> Slave 只能 Select 
 
-    Sync 同步複製。
-
-    share nothing.
+    share nothing && sync data.
 
 * Split Brain 腦裂(failover 容錯)
 
