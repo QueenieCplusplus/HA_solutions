@@ -15,7 +15,7 @@ sync or share
     
     https://ssorc.tw/5928/
 
-    Share memory. 共享數據。
+    Share memory. 共享數據。 (using drbd, distributed republica block device.)
 
     use heart beat
 
