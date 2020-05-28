@@ -9,8 +9,8 @@ sync or share
     
     http://mylinuxcloudnotes.blogspot.com/2015/08/centos7-mysql-replication.html
     
-     * API -> Master 可以 Select, Insert, Update, Delete
-     * Front end -> Slave 只能 Select 
+     * API --- R/W ---> Master 可以 Select, Insert, Update, Delete
+     * Front end --- R ---> Slave 只能 Select 
 
     share nothing && sync data.
 
