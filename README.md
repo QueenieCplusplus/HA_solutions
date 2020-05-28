@@ -5,6 +5,10 @@ sync or share
 
 * Replica 備份 M/S
 
+    method:
+    
+    http://mylinuxcloudnotes.blogspot.com/2015/08/centos7-mysql-replication.html
+
     Sync 同步複製。
 
     share nothing.
