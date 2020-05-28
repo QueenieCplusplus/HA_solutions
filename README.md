@@ -11,6 +11,10 @@ sync or share
 
 * Split Brain 腦裂(failover 容錯)
 
+    using heartbeat && DRBD :
+    
+    https://ssorc.tw/5928/
+
     Share memory. 共享數據。
 
     use heart beat
