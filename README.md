@@ -2,6 +2,9 @@
 sync or share
 
 
+Main Doc:
+https://www.qa-knowhow.com/?p=2308
+
 
 * Replica 備份 M/S
 
